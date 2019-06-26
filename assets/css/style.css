@@ -242,7 +242,7 @@ img {
 
 .move-bar {
     animation: sideToside 1.75s ease-in-out infinite;
-    background-color: var(--colour-3);
+    background-color: var(--colour-1);
     height: 100%;
     position: absolute;
     width: 50%;
@@ -760,7 +760,7 @@ img {
 
 .move-bar {
     animation: sideToside 1.75s ease-in-out infinite;
-    background-color: var(--colour-3);
+    background-color: var(--colour-1);
     height: 100%;
     position: absolute;
     width: 50%;
@@ -1260,7 +1260,7 @@ img {
     
 .move-bar {
     animation: sideToside 1.75s ease-in-out infinite;
-    background-color: var(--colour-3);
+    background-color: var(--colour-1);
     height: 100%;
     position: absolute;
     width: 50%;
